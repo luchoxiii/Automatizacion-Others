@@ -58,7 +58,13 @@ git clone https://github.com/luchoxiii/Automatizacion-Others.git
 ```
 
 ---
+### Diferentes IAs para hacer cosas
 
+#### Traduccion:
+  - [DeepL](https://www.deepl.com/es/translator)
+
+
+---
 ### Otros recursos
 
 - [Documentacion](https://github.com/luchoxiii/Automatizacion-Others/tree/main/Books)
