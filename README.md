@@ -68,3 +68,4 @@ git clone https://github.com/luchoxiii/Automatizacion-Others.git
 ### Otros recursos
 
 - [Documentacion](https://github.com/luchoxiii/Automatizacion-Others/tree/main/Books)
+- [N8N Workflows de Cybersecurity Ideas](https://github.com/luchoxiii/Cyber_Securitys/tree/main/n8n-workflows)
