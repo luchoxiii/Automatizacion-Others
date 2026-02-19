@@ -57,6 +57,9 @@ git clone https://github.com/luchoxiii/Automatizacion-Others.git
 
 ```
 
+<img width="585" height="698" alt="image" src="https://github.com/user-attachments/assets/fe91ee8a-b963-49a1-b3e7-ff031105f765" />
+
+
 ---
 ### Diferentes IAs para hacer cosas
 
