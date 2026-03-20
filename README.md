@@ -68,6 +68,13 @@ git clone https://github.com/luchoxiii/Automatizacion-Others.git
 
 
 ---
+
+### Canales de YouTube
+
+  - [Imz Dev](https://www.youtube.com/@ImzoDev/videos) 
+
+---
+
 ### Otros recursos
 
 - [Documentacion](https://github.com/luchoxiii/Automatizacion-Others/tree/main/Books)
