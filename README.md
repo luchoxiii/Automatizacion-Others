@@ -71,7 +71,12 @@ git clone https://github.com/luchoxiii/Automatizacion-Others.git
 
 ### Canales de YouTube
 
-  - [Imz Dev](https://www.youtube.com/@ImzoDev/videos) 
+  #### Español
+
+  - [Imz Dev](https://www.youtube.com/@ImzoDev/videos)
+  - [Benjamin Cordero](https://www.youtube.com/@bencord/videos)
+
+  #### Ingles
 
 ---
 
