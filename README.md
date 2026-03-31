@@ -66,6 +66,9 @@ git clone https://github.com/luchoxiii/Automatizacion-Others.git
 #### Traduccion:
   - [DeepL](https://www.deepl.com/es/translator)
 
+#### IA API gratuita 
+  - [Groq](https://groq.com/)
+
 
 ---
 
@@ -80,8 +83,11 @@ git clone https://github.com/luchoxiii/Automatizacion-Others.git
 
 ---
 
-### Otros recursos
+
+
+### Otros recursos importantes
 
 - [Documentacion](https://github.com/luchoxiii/Automatizacion-Others/tree/main/Books)
 - [N8N Workflows de Cybersecurity Ideas](https://github.com/luchoxiii/Cyber_Securitys/tree/main/n8n-workflows)
 - [Costos de APIs IA](https://inworld.ai/models)
+- [Agentes con LLMs by Nvidia](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-16+V1)
