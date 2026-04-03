@@ -78,6 +78,7 @@ git clone https://github.com/luchoxiii/Automatizacion-Others.git
 
   - [Imz Dev](https://www.youtube.com/@ImzoDev/videos)
   - [Benjamin Cordero](https://www.youtube.com/@bencord/videos)
+  - [Aitor Wilzig](https://www.youtube.com/@AitorWilzig)
 
   #### Ingles
 
